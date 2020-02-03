@@ -14,7 +14,7 @@ score = 0
 
 def addToScore():
   message = txt.get()
-  if message == "Jon":
+  if message == "Leo":
     lbl['text'] = "go away"
   else:
     lbl['text'] = "hello"
